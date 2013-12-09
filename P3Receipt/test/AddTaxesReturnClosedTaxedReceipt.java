@@ -10,8 +10,8 @@ import static org.junit.Assert.*;
  *
  * @author rtv1
  */
-public class TotalReturnClosedOneTaxedReceipt {
-    //Total retorna closed quan tenim un recibo amb taxes afegides
-    public TotalReturnClosedOneTaxedReceipt() {
+public class AddTaxesReturnClosedTaxedReceipt {
+    //addTaxes retorna closed quan tenim un recibo amb taxes afegides
+    public AddTaxesReturnClosedTaxedReceipt() {
     }
 }
