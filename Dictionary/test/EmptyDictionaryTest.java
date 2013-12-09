@@ -7,6 +7,7 @@ import dictionary.DictionaryImpl;
 import org.junit.Test;
 import static org.junit.Assert.*;
 import dictionary.Dictionary;
+import dictionary.*;
 
 /**
  *
